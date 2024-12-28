@@ -43,6 +43,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Build Release:
 - flutter clean
+- flutter pub get
 - flutter build apk
 - flutter build apk --release
 - Build will be generated at D:\WalletPlus-Flutter-App\walletplus\build\app\outputs\flutter-apk\
